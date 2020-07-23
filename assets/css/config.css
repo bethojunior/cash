@@ -9,7 +9,9 @@
 .btn-secondary{
     color: var(--color-main)!important;
 }
-
+.color-main{
+    color: var(--color-main)!important;
+}
 input[type="submit"].primary, input[type="reset"].primary, input[type="button"].primary, button.primary, .button.primary {
     color: white!important;
 }
