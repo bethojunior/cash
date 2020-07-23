@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ca64c21-0280-45c6-be7a-6f20e74abbfa" name="Default Changelist" comment="" />
+    <list default="true" id="9ca64c21-0280-45c6-be7a-6f20e74abbfa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/2/assets/css/config.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/images/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/images/image-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/images/logo1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/images/logo_branca.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2/images/woman-home.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/config.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/config.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,8 +59,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2/images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projects\cash\2\images" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -43,11 +77,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595542677031</updated>
-      <workItem from="1595542678178" duration="2757000" />
+      <workItem from="1595542678178" duration="5327000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

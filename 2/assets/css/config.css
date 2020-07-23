@@ -27,8 +27,17 @@ input[type="submit"].primary, input[type="reset"].primary, input[type="button"].
     color: white!important;
 }
 
+.logo-main{
+    margin-top: 1.5vw!important;
+    width: 5vw!important;
+}
+
 @media (max-width: 992px) {
     .mobile-none{
         display: none!important;
+    }
+    .logo-main{
+        margin-top: 4vw!important;
+        width: 15vw!important;
     }
 }
