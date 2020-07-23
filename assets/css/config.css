@@ -1,4 +1,15 @@
 :root{
-    --color-main : rgb(42,179,74);
+    --color-main : #2AB34A;
     --backgroun-main : '';
+}
+.btn-main{
+    background: var(--color-main)!important;
+    color: white!important;
+}
+.btn-secondary{
+    color: var(--color-main)!important;
+}
+
+input[type="submit"].primary, input[type="reset"].primary, input[type="button"].primary, button.primary, .button.primary {
+    color: white!important;
 }
