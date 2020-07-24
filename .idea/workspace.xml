@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ca64c21-0280-45c6-be7a-6f20e74abbfa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/2/assets/css/noscript.css" beforeDir="false" afterPath="$PROJECT_DIR$/2/assets/css/noscript.css" afterDir="false" />
-    </list>
+    <list default="true" id="9ca64c21-0280-45c6-be7a-6f20e74abbfa" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +48,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/2/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../suport" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
@@ -68,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595542677031</updated>
-      <workItem from="1595542678178" duration="5664000" />
+      <workItem from="1595542678178" duration="6158000" />
     </task>
     <servers />
   </component>
@@ -87,6 +85,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1595548607003">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1595548607003" />
     <state x="667" y="244" width="585" height="592" key="find.popup" timestamp="1595548183116">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
